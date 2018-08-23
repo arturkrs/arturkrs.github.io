@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1534639053,
+	"version": 1535024603,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,7 +14,13 @@
 		"images/object_np-sheet0.png",
 		"images/goal-sheet0.png",
 		"images/spike-sheet0.png",
-		"images/ground2-sheet0.png",
+		"images/ice-sheet0.png",
+		"images/glue-sheet0.png",
+		"images/no_colision-sheet0.png",
+		"images/fly-sheet0.png",
+		"images/brick-sheet0.png",
+		"images/speed-sheet0.png",
+		"images/ramp-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
