@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1535024603,
+	"version": 1535629948,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,10 +17,13 @@
 		"images/ice-sheet0.png",
 		"images/glue-sheet0.png",
 		"images/no_colision-sheet0.png",
-		"images/fly-sheet0.png",
+		"images/bug_density-sheet0.png",
 		"images/brick-sheet0.png",
 		"images/speed-sheet0.png",
 		"images/ramp-sheet0.png",
+		"images/web-sheet0.png",
+		"images/bug_jump-sheet0.png",
+		"images/bug_float-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
